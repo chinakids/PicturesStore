@@ -14,3 +14,6 @@ Github 杂物储存仓库~
 #### Html
 
 - 需要展示用的 HTML 页面
+
+	- [编码规范[coding]](http://chinakids.github.io/PicturesStore/html/coding/index.html)
+
