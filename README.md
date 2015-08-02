@@ -17,3 +17,7 @@ Github 杂物储存仓库~
 
 	- [编码规范[coding]](http://chinakids.github.io/PicturesStore/html/coding/index.html)
 
+
+#### 简历(CV)
+
+- 本人[简历](http://chinakids.github.io/PicturesStore/cv/cv.html)
