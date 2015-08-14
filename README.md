@@ -8,7 +8,7 @@ Github 杂物储存仓库~
 
 #### Issues
 
-- Issues & readme有关的图片
+- Issues有关的图片
 
 
 #### Html
@@ -17,3 +17,15 @@ Github 杂物储存仓库~
 
 	- [编码规范[coding]](http://chinakids.github.io/PicturesStore/html/coding/index.html)
 
+
+#### CV
+
+- 个人简历
+
+	- [页面](http://chinakids.github.io/PicturesStore/cv/cv.html)
+	
+	- [PDF](http://chinakids.github.io/PicturesStore/cv/cv.pdf)	
+
+#### Images
+
+- readme & 项目其他地方 有关的图片
