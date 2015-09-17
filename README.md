@@ -15,16 +15,18 @@ Github 杂物储存仓库~
 
 - 需要展示用的 HTML 页面
 
-	- [编码规范[coding]](http://chinakids.github.io/PicturesStore/html/coding/index.html)
+  - [编码规范[coding]](http://chinakids.github.io/PicturesStore/html/coding/index.html)
 
 
 #### CV
 
 - 个人简历
 
-	- [页面](http://chinakids.github.io/PicturesStore/cv/cv.html)
-	
-	- [PDF](http://chinakids.github.io/PicturesStore/cv/cv.pdf)	
+  - [页面](http://chinakids.github.io/PicturesStore/cv/cv.html)
+
+  - [PDF](http://chinakids.github.io/PicturesStore/cv/cv.pdf)
+
+  - [DOC](http://chinakids.github.io/PicturesStore/cv/cv.doc)  
 
 #### Images
 
